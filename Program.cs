@@ -7,7 +7,7 @@ This code is a little bit mess up, since im only a beginner. :)
 Thanks to :
 - Abood#1337 (helping me alot in C# before)
 - loanselot#1337 (idk)
-
+- hades(sexy)
 */
 
 using System;
@@ -51,6 +51,8 @@ namespace TicTacToe
 			if (IsFull(mainBoard))
 			{
 				Console.WriteLine("\nTIE! Total round : " + Round);
+				Console.WriteLine("Retard! Message literally#1337 for Daddy Shark.");
+				
 			}
 			else
 			{
